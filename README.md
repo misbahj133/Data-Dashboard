@@ -2,7 +2,7 @@
 
 An interactive analytics dashboard built with React and Recharts, showing revenue, orders, and channel performance for a fictional outdoor-gear retailer. Built to demonstrate turning raw data into an at-a-glance visual dashboard with real filtering.
 
-![Dashboard preview](https://github.com/misbahj133/Data-Dashboard/issues/2#issue-5103593551)
+![Dashboard preview](https://github.com/user-attachments/assets/93d54a34-f573-45c4-bf78-a6d75fbfb09b)
 
 ## Features
 
